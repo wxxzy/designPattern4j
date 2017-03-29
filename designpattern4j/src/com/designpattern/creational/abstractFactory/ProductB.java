@@ -1,7 +1,7 @@
 package com.designpattern.creational.abstractFactory;
 
 /**
- * Created by xuhuan on 2017/3/22.
+ * Created by mungo on 2017/3/22.
  */
 public class ProductB implements AbstractProductB {
     @Override

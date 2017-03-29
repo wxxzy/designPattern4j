@@ -2,7 +2,7 @@ package com.designpattern.creational.abstractFactory;
 
 /**
  * 抽象产品类
- * Created by xuhuan on 2017/3/22.
+ * Created by mungo on 2017/3/22.
  */
 public interface AbstractProductB {
     public void shareMethod();
